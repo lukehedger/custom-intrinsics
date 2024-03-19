@@ -1,0 +1,19 @@
+{
+  "name": "custom-intrinsics",
+  "version": "1.0.0",
+  "description": "Custom Step Functions intrinsic functions powered by LLRT",
+  "scripts": {
+    "cdk": "cdk"
+  },
+  "devDependencies": {
+    "@tsconfig/node20": "20.1.2",
+    "@types/node": "20.11.30",
+    "aws-cdk-lib": "2.133.0",
+    "tsx": "4.7.1",
+    "typescript": "5.4.2"
+  },
+  "dependencies": {
+    "nanoid": "5.0.6",
+    "ulid": "2.3.0"
+  }
+}
